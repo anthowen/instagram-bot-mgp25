@@ -1,15 +1,17 @@
-#Build
+# Instagram Bot
+
+## Build
 	composer install
 
-##Run
+## Run
 	Open your console, and run this command
 
 		php index.php
 
-##Report
+## Report
 	index.html
 
-#CSV explanation
+## CSV explanation
 	
 ### users.csv
 	Contains user credientials
