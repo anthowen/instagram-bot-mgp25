@@ -1,4 +1,4 @@
-##Build
+#Build
 	composer install
 
 ##Run
@@ -9,7 +9,7 @@
 ##Report
 	index.html
 
-##CSV explanation
+#CSV explanation
 	
 ### users.csv
 	Contains user credientials
