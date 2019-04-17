@@ -1,0 +1,16 @@
+{
+    "name": "blizzardsolution/instagram-bot-mgp25",
+    "description": "bot for performing actions on instagram with mgp25",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Blizzard",
+            "email": "webtal.blizzard@gmail.com"
+        }
+    ],
+    "require": {
+	   "mgp25/instagram-php": "^5.0",
+       "florianv/open": "^1.0.0"
+    }
+}
