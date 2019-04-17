@@ -9,7 +9,9 @@
 		php index.php
 
 ## Report
-	index.html
+	Once bot action has finished, open index.html in your browser, it contains report table of action results.
+	
+	https://github.com/blizzardsolution/instagram-bot-mgp25/blob/master/screenshot.png
 
 ## CSV explanation
 	
